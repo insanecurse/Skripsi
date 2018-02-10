@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/MATLAB/MATLAB/matlabcontrol-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MATLAB/MATLAB/extern/engines/java/jar/engine.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/google-http-java-client/libs/google-http-client-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/JSONLib/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/JSONLib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/EXT JSON/commons.collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/EXT JSON/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/EXT JSON/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/EXT JSON/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonatan Morisson/Desktop/Kuliah/Library Java/EXT JSON/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
